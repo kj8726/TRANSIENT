@@ -1,0 +1,126 @@
+.main{
+    background-color: green;
+
+}
+.logo{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: floralwhite;
+    padding: 20px;
+    margin: 5px;
+    margin-left: 60%;
+}
+.div1 {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 5px;
+}
+.header{
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logos {
+    display: inline-block;
+    position: relative;
+    align-items: center;
+    width: auto;
+    background-color: lightgreen;
+    padding: 10px;
+    margin-left: 5px;
+}
+.div3 {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    background-color: lightcoral;
+    padding: 10px;
+    margin: 5px;
+}
+
+.div4 {
+    display: inline-block;
+    position: relative;
+    width: auto;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+    margin: 5px;
+}
+
+.background-image .img1,
+.background-image .img2,
+.background-image .img3,
+.background-image .img4,
+.background-image .img5,
+.background-image .img6 {
+    display: inline-block;
+    margin: 5px;
+}
+
+.box {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+.box img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+    
+}
+.background-image{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    background-color: lightcoral;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.img1{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+.img2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+.img3{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+.img4{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+.img5{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
+.img6{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+}
